@@ -1,0 +1,23 @@
+<record>
+      <entry id="\bibtexkey">
+        <article>
+  \begin{author}		<author>      \author 		</author>  		\end{author}
+  \begin{title} 		<title> 	\title         	</title>    	\end{title}
+  \begin{journal} 		<journal> 	\journal 		</journal>		\end{journal} 
+  \begin{year}      	<year>	\year				</year>			\end{year}
+\begin{volume}      	<volume>	\volume			</volume>		\end{volume}
+\begin{number}      	<number>	\number			</number>		\end{number}        
+\begin{pages}      		<pages>	\pages				</pages>		\end{pages} 
+\begin{abstract}      	<abstract>	\abstract		</abstract>		\end{abstract}  
+\begin{doi}      		<doi>	\doi				</doi>			\end{doi}      
+\begin{keywords}      	<keywords>	\keywords		</keywords>		\end{keywords}           
+
+         
+          <urls>
+            <pdf-urls>
+              <url>internal-pdf://\format[FileLink(pdf)]{\file}</url>
+            </pdf-urls>
+            </urls>
+        </article>
+      </entry>
+    </record>
